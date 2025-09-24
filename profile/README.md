@@ -95,7 +95,7 @@ Below you'll find a collection of projects we've developed and shared with the c
 
 | 💬 Get in Touch | 🚀 Start Building | 📖 Learn More |
 |:---:|:---:|:---:|
-| (https://www.teamsviluppo.it) | Explore our repositories | Check out our documentation |
+| https://www.teamsviluppo.it | Explore our repositories | Check out our documentation |
 
 ---
 
