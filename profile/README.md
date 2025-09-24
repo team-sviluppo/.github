@@ -95,15 +95,7 @@ Below you'll find a collection of projects we've developed and shared with the c
 
 | 💬 Get in Touch | 🚀 Start Building | 📖 Learn More |
 |:---:|:---:|:---:|
-| Contact us through our website | Explore our repositories | Check out our documentation |
-
----
-
-### 💡 **"Innovation is our passion, Excellence is our standard"**
-
-*© 2024 Teamsviluppo - Crafting the future, one line of code at a time*
-
-</div>
+| [https://www.teamsviluppo.it] | Explore our repositories | Check out our documentation |
 
 ---
 
