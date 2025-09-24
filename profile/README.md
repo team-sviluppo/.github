@@ -51,21 +51,6 @@ We believe in the power of technology to transform lives and businesses. Our tea
 
 ---
 
-## 🌍 **Discover More**
-
-<div align="center">
-
-### 🏠 **Visit Our Website**
-**Ready to bring your vision to life?**
-
-[![Website](https://img.shields.io/badge/🌐%20Visit-www.teamsviluppo.it-4CAF50?style=for-the-badge&logo=web&logoColor=white)](https://www.teamsviluppo.it)
-
-*Explore our services, portfolio, and get in touch with our team!*
-
-</div>
-
----
-
 ## 📂 **Open Source Projects**
 
 <div align="center">
@@ -84,18 +69,6 @@ Below you'll find a collection of projects we've developed and shared with the c
 - 📱 Flutter packages and mobile utilities
 - 🛠️ Developer tools and libraries
 - 📚 Educational resources and examples
-
----
-
-## 🤝 **Let's Connect**
-
-<div align="center">
-
-**Ready to start your next project?**
-
-| 💬 Get in Touch | 🚀 Start Building | 📖 Learn More |
-|:---:|:---:|:---:|
-| https://www.teamsviluppo.it | Explore our repositories | Check out our documentation |
 
 ---
 
